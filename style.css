@@ -70,3 +70,12 @@ a {
   height: 200px;
   margin-right: 20px;
 }
+
+#jumbotron {
+  margin-bottom: 0; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
+  background-size: cover; 
+  background-position: center, center;
+}
